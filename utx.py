@@ -9,7 +9,7 @@ if sys.version_info[0] < 3:
 import random
 import re
 sys.path.append("modulos")
-from Zawiencom import *
+
 from menu1 import *
 from menu2 import *
 from menu3 import *
