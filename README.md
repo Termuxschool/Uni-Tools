@@ -26,8 +26,8 @@ Como usar?
 ```
 pkg install git
 pkg install python
-git clone https://github.com/Zian25/UniTools-Termux
-cd UniTools-Termux
+git clone https://github.com/Termuxschool/Uni-Tools
+cd Uni-Tools
 python3 utx.py
 ```
 
