@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+#codinh
+
+
 import sys
 if sys.version_info[0] < 3:
     print ("Python 2 não é suportado, use Python 3!")
